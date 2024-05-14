@@ -73,7 +73,7 @@ body {
   transform-origin: 100% 50%;
   transform: translatez(-2px) scalex(-1) translatex(100%);
   background: #9bc8d6; /* Background color */
-  background-image: url('video4.gif'); /* Add your image URL here */
+  background-image: src="video4.gif"; /* Add your image URL here */
   background-size: cover; /* Adjust as needed */
   background-position: center; /* Adjust as needed */
 }
