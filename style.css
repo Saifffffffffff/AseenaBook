@@ -19,7 +19,7 @@ body {
   height: 100vh;
   /* min-width: 900px;
   min-height: 700px; */
-  background: linear-gradient(rgba(2, 29, 183, 0.963), rgb(146, 4, 96));
+  background: linear-gradient(to bottom, #67003b, #6d0e46, #731a51, #78245d, #7d2e68, #703976, #604281, #4d4b88, #195283, #005473, #00535e, #224f4c);
   position: relative;
 }
 #botao1 {
@@ -1069,7 +1069,7 @@ body {
   padding: 5% 5% 4% 4%;
   transform-origin: 100% 50%;
   transform: translatez(-92px) scalex(-1) translatex(100%);
-  background: #f5f5f5;
+  background: #f5f5f5
 }
 
 .left-side:nth-child(92) {
@@ -1112,7 +1112,8 @@ body {
 .page:nth-child(96) {
   padding: 5% 5% 4% 4%;
   transform-origin: 100% 50%;
-  transform: translatez(-96px) scalex(-1) translatex(100%);
+  transform: translatez(-96px) scalex(-1) translatex(100%);dseed
+  transform: translatez(-96px) scalex(-1) translatex(100%);ds
   background: #f5f5f5;
 }
 
